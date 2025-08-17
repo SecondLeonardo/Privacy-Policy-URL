@@ -1,2 +1,2 @@
 # Privacy-Policy-URL
-Privacy Policy for SkillTalk App
+Privacy Policy for ST App
